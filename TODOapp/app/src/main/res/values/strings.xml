@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TODOapp</string>
+
+    <string name="noteAppName">My Note</string>
+    <string name="filter">Filter</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="categories">Categories</string>
+    <string name="priority">Priority</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <string name="search">Search…</string>
+    <string name="checkInternet">Please Check Your Connection</string>
+    <string name="emptyList">List is empty</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="measure">Measure</string>
+
+    <string-array name="categories_Spinner">
+        <item>Work</item>
+        <item>Home</item>
+        <item>Health</item>
+        <item>Education</item>
+    </string-array>
+
+    <string-array name="priority_Spinner">
+        <item>Low</item>
+        <item>Normal</item>
+        <item>High</item>
+    </string-array>
+
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_title">DELETE ALL NOTES</string>
+    <string name="delete_msg_body">Are you sure to delete All your notes?</string>
+    <string name="delete_yes">YES</string>
+    <string name="delete_cancle">CANCEL</string>
+    <string name="deleteall">CLEAR</string>
+</resources>
